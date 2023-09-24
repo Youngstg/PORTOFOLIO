@@ -83,6 +83,7 @@ body{
 }
 .center{
     color: rgb(41, 98, 148);
+    font-size: 60px;
 }
 hr{
     height: 10px;
